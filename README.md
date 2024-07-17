@@ -9,12 +9,12 @@ git status
 Passo para actualizar o nosso repo LOCAL.
 
 ```bash
-git pull origin master
+git pull origin main
 ```
 </details>
 
 <details>
-<summary>2º Para trabalharem num branch vosso sem estragar o main ou master</summary>
+<summary>2º Para trabalharem num branch vosso sem estragar o main ou main</summary>
 > :warning: **Aviso:** Para trabalharem num branch individual
 
 git checkout -b 202407161357-%Issue%-%Task%-%DescricaoDoActualizado%
@@ -37,7 +37,7 @@ git checkout -b 202407161357-%Issue%-%Task%-%DescricaoDoActualizado%
  
    Passo o push (o enviar do ficheiro para  repo) .
    
-	git push -u origin main` (ou master)
+	git push -u origin main`
  
    Passo para confirmar os ficheiros enviados (commit) com a mensagem desejada -m .
    
@@ -70,8 +70,8 @@ git checkout -b 202407161357-%Issue%-%Task%-%DescricaoDoActualizado%
 </details>
 
 <details>
-<summary>4º Passo para voltarmos ao branch Master ou main</summary>
-	git checkout master
+<summary>4º Passo para voltarmos ao branch Main ou main</summary>
+	git checkout main
  
    Passo para actualizar o nosso repo LOCAL.
    
