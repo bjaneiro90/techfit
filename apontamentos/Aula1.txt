@@ -1,0 +1,101 @@
+*** HISTORIA ***
+
+Anos 1990 - Início das Práticas Ágeis
+* As práticas ágeis começaram a ser experimentadas em várias equipes de desenvolvimento de software, focando na entrega rápida e incremental de funcionalidades.
+
+* Extreme Programming (XP): Criado por Kent Beck, XP enfatizava boas práticas como programação em par, testes automáticos e integração contínua, visando melhorar a qualidade do software e a comunicação entre os membros da equipa.
+ 
+* O conceito de desenvolvimento iterativo surgiu como resposta ao modelo tradicional em cascata (Waterfall), permitindo ciclos de desenvolvimento mais curtos e feedback constante.
+
+
+1990 - Formalização do Scrum
+* Scrum foi criado por Jeff Sutherland e Ken Schwaber como uma resposta à necessidade de melhorar a produtividade no desenvolvimento de software.
+
+* O framework foi inicialmente testado na Advanced Development Methods (ADM) e depois amplamente adotado, especialmente em empresas de software, devido à sua eficácia em gerenciar projetos complexos com entregas rápidas e incrementais.
+
+* Ciclos curtos (Sprint) e papéis claramente definidos (Product Owner, Scrum Master, Equipe de Desenvolvimento) formaram a base do Scrum, que promoveu um ambiente colaborativo e auto-organizado.
+
+
+2001 - O Manifesto Ágil
+* 17 profissionais de diferentes abordagens de desenvolvimento (incluindo Scrum, XP, entre outros) reuniram-se para criar o Manifesto Ágil, estabelecendo princípios claros para a criação de software de forma mais eficiente e com maior foco no valor entregue ao cliente.
+
+* O Manifesto Ágil foca na flexibilidade, colaboração e resposta rápida às mudanças, e não em processos rígidos ou documentação excessiva.
+
+* 4 valores principais e 12 princípios que promovem a simplicidade, comunicação constante e adaptação ao longo do ciclo de vida do projeto.
+
+
+Anos 2000-2010 - Expansão do Agile
+* Scrum e XP se tornaram as metodologias ágeis mais populares, mas surgiram outras abordagens como Kanban e Lean.
+
+* Kanban: Baseado na visualização do fluxo de trabalho, permite uma abordagem contínua e incremental, focando na gestão visual de tarefas e na eliminação de gargalos no processo de desenvolvimento.
+ 
+* Lean: Inspirado no Sistema de Produção Toyota, o Lean foca na eliminação de desperdícios e na entrega de valor contínuo, ajudando as equipes a se concentrar nas atividades que realmente agregam valor ao cliente.
+
+* Essas metodologias começaram a ser aplicadas não apenas em empresas de software, mas também em áreas como gestão de projetos, marketing e recursos humanos, criando uma verdadeira revolução na forma como as empresas gerenciam suas operações e projetos.
+
+
+-------------------------------------------------------------------------------------
+
+
+*** 4 VALORES ***
+
+
+1. **Indivíduos e interações mais que processos e ferramentas**
+   → Explicação: O Agile valoriza a colaboração humana e a comunicação direta entre as equipas, mais do que seguir rigorosamente processos ou depender de ferramentas específicas.
+   → Exemplo prático: Se uma equipa está a enfrentar um desafio, a comunicação e a troca de ideias entre os membros são essenciais. Às vezes, uma ferramenta pode até ser útil, mas não pode substituir a troca de conhecimento que ocorre através da interação entre as pessoas.
+   → Reflexão: Pergunta aos formandos: "Já trabalharam em uma equipa onde uma boa comunicação fez a diferença, mesmo sem as melhores ferramentas ou processos em lugar?"
+
+
+2. **Software funcionando mais que documentação abrangente**
+   → Explicação: O objetivo principal no desenvolvimento ágil é entregar software funcional que atenda às necessidades do cliente, em vez de gastar tempo e recursos criando documentação excessiva. A documentação não é descartada, mas deve ser suficiente e útil para apoiar a entrega do produto.
+   → Exemplo prático: Imagine uma equipa de desenvolvimento de software que, ao invés de escrever longos relatórios, foca em entregar uma versão funcional do produto (uma demo ou protótipo) para receber feedback dos clientes. Isso ajuda a reduzir o risco de investir muito tempo em algo que, no final, não atenda ao que é necessário.
+   → Reflexão: Pergunta aos formandos: "Quando foi a última vez que uma extensa documentação atrasou mais o progresso de um projeto do que ajudou? Como poderiam melhorar a situação?"
+
+
+3. **Colaboração com o cliente mais que negociação de contratos**
+   → Explicação: No Agile, o foco é criar uma parceria com o cliente, trabalhando juntos de forma contínua ao longo do projeto. A negociação de contratos, que pode ser rígida e inflexível, é substituída pela colaboração aberta e pela adaptação constante às necessidades do cliente.
+   → Exemplo prático: Em vez de fechar um contrato rígido onde os requisitos estão fixos, a equipa ágil trabalha com o cliente ao longo do projeto, ajustando funcionalidades conforme o feedback recebido. Isso ajuda a garantir que o produto final está alinhado com as expectativas reais do cliente.
+   → Reflexão: Pergunta aos formandos: "Já tiveram a experiência de trabalhar diretamente com o cliente durante o desenvolvimento de um projeto? Como isso afetou a qualidade do produto final?"
+
+
+4. **Responder a mudanças mais que seguir um plano**
+    → Explicação: No mundo ágil, a adaptabilidade é crucial. O foco não está em seguir rigidamente um plano predeterminado, mas em ser capaz de se adaptar rapidamente às mudanças, seja devido a feedback, novas informações ou mudanças no mercado. Isso é especialmente importante em ambientes de negócios dinâmicos.
+   → Exemplo prático: Imagine uma equipa a desenvolver um produto e, durante o processo, o cliente solicita uma mudança significativa no design ou nas funcionalidades. Em uma abordagem ágil, a equipa reage rapidamente a essa mudança e adapta o produto, enquanto que, em métodos tradicionais, essa mudança seria mais difícil de implementar sem causar atrasos e custos adicionais.
+
+
+**Dicas Adicionais para Explicar os Valores**
+- **Envolver os formandos**: Sempre que possível, traga exemplos reais ou situações do dia a dia para que os formandos se identifiquem com os conceitos.
+- **Use metáforas simples**: Por exemplo, pode comparar a colaboração com o cliente a uma dança onde ambos os parceiros (cliente e equipa) precisam estar em sintonia, ajustando os passos conforme necessário.
+- **Enfatize a flexibilidade**: O Agile é sobre flexibilidade e a capacidade de adaptação ao longo do tempo. Não se trata de seguir um roteiro fixo, mas de se ajustar ao que funciona melhor para o projeto e para as pessoas envolvidas.
+
+
+--------------------------------------------------------------------------------------------
+
+*** EXERCICIO PRATICO ***
+
+## 1. Identifica 3 exemplos de projeto e um exemplo de operação no contexto da TechFit
+
+### Exemplos de projeto:
+
+1. **Lançamento de um novo programa de treino online**: A TechFit decide lançar um programa de treino personalizado, com planos de treino e acompanhamento online para os seus clientes, visando ampliar sua oferta para um público fora das academias físicas.
+2. **Desenvolvimento de um aplicativo de monitoramento de desempenho**: Criar um aplicativo que permita aos clientes acompanhar o seu progresso nos treinos, incluindo métricas como força, resistência e evolução de performance.
+3. **Abertura de uma nova unidade da TechFit**: Expandir a presença da empresa, abrindo uma nova unidade em outra cidade ou região, com o objetivo de alcançar um novo mercado.
+
+### Exemplo de operação:
+
+1. **Treinos diários nas academias**: A operação contínua envolve a rotina diária de treinos nas academias da TechFit, com personal trainers, acompanhamento e suporte aos clientes de forma contínua. Esse processo é repetitivo e essencial para manter a operação da empresa em funcionamento.
+
+---
+
+## 2. Escolhe um produto ou serviço conhecido da TechFit e descreve como seria o seu MVP
+
+### Produto escolhido: **Aplicativo de Treino Personalizado**
+
+### MVP:
+O MVP de um aplicativo de treino personalizado da TechFit seria uma versão simplificada da plataforma que inclui apenas as funcionalidades essenciais para validar a ideia. Isso pode incluir:
+
+- **Login e perfil de usuário**: O usuário cria uma conta e preenche informações básicas sobre seu nível de fitness e metas.
+- **Plano de treino básico**: O aplicativo oferece um plano de treino simples e padronizado para diferentes níveis (iniciante, intermediário e avançado).
+- **Acompanhamento de progresso**: A capacidade de registrar e monitorar o desempenho nos exercícios.
+
+O MVP não incluiria funcionalidades mais avançadas como feedback em tempo real, integração com dispositivos de fitness ou planos nutricionais personalizados. O objetivo seria testar se os clientes realmente usam o aplicativo e se ele atende às suas necessidades básicas antes de investir em recursos mais complexos.

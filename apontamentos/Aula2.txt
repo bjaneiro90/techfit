@@ -1,0 +1,58 @@
+***** WATERFALL *****
+
+# Apontamentos Extra - Waterfall
+
+### Características do Modelo Waterfall
+- **Linear e sequencial:** Cada fase é completada antes de passar para a próxima.
+- **Planejamento detalhado no início:** O escopo e requisitos do projeto são definidos antes do início do desenvolvimento, com uma previsão clara do que será entregue.
+- **Fases distintas:** As fases são bem definidas, como: Requisitos, Design, Implementação, Testes, Implantação e Manutenção.
+- **Dificuldade de mudanças:** Mudanças no meio do projeto são difíceis e custam mais tempo e recursos para serem implementadas.
+
+### Vantagens do Waterfall
+- **Facilidade de gestão:** Como cada fase é bem definida, o projeto é fácil de gerenciar, pois o progresso é mensurável e visível.
+- **Claro para clientes e stakeholders:** O escopo e os entregáveis são claramente definidos desde o início.
+- **Documentação completa:** Como o modelo é centrado em documentação, garante-se um registro detalhado de todo o projeto.
+- **Modelo tradicionalmente usado:** Muitas indústrias, como construção e engenharia, ainda preferem Waterfall devido à sua natureza estruturada e previsível.
+
+### Desvantagens do Waterfall
+- **Inflação de custos:** Se mudanças ocorrerem nas fases posteriores do projeto, os custos podem aumentar significativamente, uma vez que as fases anteriores precisam ser revisadas.
+- **Dificuldade em lidar com incertezas:** Se os requisitos mudarem ou evoluírem durante o projeto, a equipe tem que voltar para as fases anteriores, resultando em atrasos e revisões.
+- **Visibilidade limitada durante o processo:** Como o produto é entregue ao final do ciclo de desenvolvimento, o cliente só vê o resultado final após todo o trabalho estar feito, o que pode gerar surpresas indesejadas.
+- **Pouco espaço para feedback contínuo:** Não há ciclos iterativos para incorporação de feedback durante o processo de desenvolvimento.
+
+### Exemplos de Aplicação de Waterfall
+- **Projetos de Engenharia:** Onde os requisitos são bem definidos desde o início e não mudam muito ao longo do processo.
+- **Projetos de Construção de Software Com Requisitos Definidos:** Em projetos onde a definição clara e precisa do que será entregue é mais importante do que a flexibilidade.
+- **Indústria Automotiva:** Para o desenvolvimento de novos modelos ou componentes, onde o processo é bem documentado e segue um caminho linear claro.
+
+### Quando usar Waterfall
+- **Projetos com requisitos estáveis:** Quando os requisitos são bem compreendidos desde o início e têm poucas ou nenhuma alteração.
+- **Projetos regulamentados ou de conformidade:** Como na indústria farmacêutica ou de defesa, onde a documentação e o seguimento rigoroso de cada fase são cruciais.
+- **Projetos com orçamento fixo e prazo determinado:** Quando o orçamento e prazo não são flexíveis, o modelo Waterfall pode ser adequado para garantir que as fases sejam cumpridas em tempo e dentro do orçamento.
+
+### Notas de Apresentação
+- Lembre-se de destacar a importância do **planejamento antecipado** e da **rigidez** no processo do Waterfall.
+- Aponte as limitações em cenários onde os requisitos podem mudar ao longo do desenvolvimento. Explique como isso impactaria negativamente um projeto Waterfall.
+- Em projetos mais dinâmicos e iterativos, compare como o **Agile** pode ser mais eficaz, adaptando-se às mudanças rapidamente.
+
+### Exemplos de Empresas que Usam Waterfall
+- **Setor de Construção Civil:** Onde cada etapa do processo precisa ser rigidamente seguida para garantir qualidade e segurança.
+- **Indústrias de Hardware:** Como a produção de novos dispositivos onde os requisitos são claros e bem definidos no início do projeto.
+
+
+
+***** GESTÃO ÁGIL DE PROJETOS *****
+
+*** DESAFIOS ***
+
+1. Resistência à mudança:
+A transição para metodologias ágeis pode ser difícil para equipas que estão acostumadas a trabalhar com métodos tradicionais, como o Waterfall. A mudança de mentalidade requer tempo e esforço, principalmente em organizações com uma cultura mais rígida. Alguns membros da equipa podem ter receio de perder o controlo, sentir-se inseguros ou desconfortáveis com a flexibilidade que o método ágil exige. Além disso, a mudança pode envolver o abandono de processos antigos e o aprendizado de novas ferramentas e técnicas, o que gera resistência, especialmente entre membros que estão mais acostumados a formas estruturadas e previsíveis de trabalho.
+
+2. Exigência de comprometimento total:
+Para que o Agile seja bem-sucedido, todos os membros da equipa devem estar altamente envolvidos e comprometidos. A natureza iterativa e colaborativa do processo exige que todos trabalhem de forma sincronizada, sem a possibilidade de adiar ou delegar tarefas críticas. Cada ciclo de feedback e entrega deve ser bem executado, o que significa que todos os membros devem estar disponíveis e prontos para adaptar-se rapidamente às mudanças e aos feedbacks. Isso pode ser um desafio, pois não é raro encontrar membros da equipa com diferentes níveis de compromisso, principalmente em ambientes de trabalho com alta rotatividade ou se a metodologia ágil não for bem implementada.
+
+3. Dificuldade em escalar:
+Quando se trata de projetos grandes e complexos com várias equipas a trabalhar em diferentes partes do projeto, pode ser difícil manter a comunicação e a coordenação eficazes. Escalar o Agile envolve gerir múltiplas equipas de forma colaborativa, o que exige um esforço significativo para alinhar objetivos, prazos e entregas, além de garantir que todas as equipas estejam em sintonia com as prioridades e as mudanças de escopo. Sem uma coordenação adequada, as equipas podem acabar trabalhando em direções diferentes, o que pode resultar em sobrecarga, atrasos ou duplicação de trabalho.
+
+4. Falta de documentação detalhada:
+Uma das características do Agile é a ênfase na comunicação direta e nas entregas funcionais em detrimento da documentação extensiva. Isso pode ser benéfico em termos de velocidade e eficiência, mas também cria um risco. A falta de documentação detalhada pode tornar mais difícil para novas equipas ou membros entenderem o projeto, especialmente durante transições, mudanças de pessoal ou em processos de auditoria. Embora a documentação não seja ignorada, ela tende a ser mais concisa e orientada para o desenvolvimento prático do que o tradicional registo detalhado. Isso pode ser problemático para organizações que operam em indústrias com regulamentos rigorosos ou em projetos que exigem rastreabilidade extensa.

@@ -1,0 +1,55 @@
+Aula 1: Introdução e Fundamentos
+    Projetos vs Operações (30 min)
+    Lean (45 min)
+        Origem
+        Conceitos principais
+    Manifesto Agile (45 min)
+        História
+        Os 4 valores e os 12 princípios
+    Produto e Minimum Viable Product (MVP) (60 min)
+        Definição de Produto
+        MVP e sua importância
+
+
+
+Aula 2: Comparativos e Gestão Ágil de Projetos
+    Waterfall vs Agile (45 min)
+        Diferenças fundamentais
+        Cenários de aplicação
+    O que é a Gestão Ágil de Projetos? (75 min)
+        Características principais
+        Benefícios e desafios
+
+
+
+Aula 3: Kanban em Profundidade
+Introdução ao Kanban: Valores e Princípios Fundamentais (60 min)
+    Kanban:
+    Descrição dos Sistemas de Fluxo (45 min)
+    As Práticas Gerais (60 min)
+    Aplicação prática e exemplos de uso do Kanban (75 min)
+
+
+
+Aula 4: Introdução ao Scrum
+    Pilares e Valores do Scrum (45 min)
+    Fases do Scrum (45 min)
+    Papéis no Scrum (60 min)
+    Product Owner
+    Scrum Master
+    Development Team
+
+
+
+Aula 5: Scrum em Profundidade e Fechamento
+    Eventos no Scrum (60 min)
+    Sprint
+    Daily Scrum
+    Sprint Review
+    Sprint Retrospective
+    Artefatos do Scrum (45 min)
+    Product Backlog
+    Sprint Backlog
+    Increment
+    Comparação prática entre Kanban e Scrum (45 min)
+    Encerramento: revisão e discussão final (30 min)
